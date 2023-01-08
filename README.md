@@ -1,12 +1,12 @@
 # ML_in_Python
 machine learning in Python
 
-| Package          | Key Advantages                                                                 | Other Useful Aspects                                                             |
-|------------------|------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-| NumPy            | Efficient operations on large arrays and matrices of numerical data           |                                                                                |
-| Pandas           | Wide range of functions for reading in and manipulating data in a table format | Ability to handle missing data and time series data                             |
-| Matplotlib       | Wide range of functions for creating visualizations of data                   | Integration with other scientific Python libraries (e.g. NumPy, Pandas)        |
-| Scikit-learn     | Wide range of tools for preprocessing and feature engineering                | A wide range of machine learning models and algorithms, including cross-validation |
-| TensorFlow       | Powerful library for building and training machine learning models            | Ability to run models on GPU or TPU for faster training                         |
-| Keras            | High-level interface for building and training machine learning models        | Built on top of TensorFlow, allows for easy prototyping and experimentation    |
-| PyTorch          | Wide range of machine learning models and algorithms                         | Dynamic computation graph, allows for easy modification of models during training |
+| Package          | Key Advantages                                                                 | Available Models and Tools                                                      | Other Useful Aspects                                                             |
+|------------------|------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| NumPy            | Efficient operations on large arrays and matrices of numerical data           | Linear algebra, random number generation, statistical functions                 |                                                                                |
+| Pandas           | Wide range of functions for reading in and manipulating data in a table format | Data wrangling and preparation, time series analysis, reshaping and pivoting data | Ability to handle missing data and time series data                             |
+| Matplotlib       | Wide range of functions for creating visualizations of data                   | Line plots, scatter plots, bar plots, histograms, pie charts                    | Integration with other scientific Python libraries (e.g. NumPy, Pandas)        |
+| Scikit-learn     | Wide range of tools for preprocessing and feature engineering                | Preprocessing, feature selection, feature extraction, model selection             | A wide range of machine learning models and algorithms, including cross-validation |
+| TensorFlow       | Powerful library for building and training machine learning models            | Neural networks, deep learning, natural language processing, computer vision     | Ability to run models on GPU or TPU for faster training                         |
+| Keras            | High-level interface for building and training machine learning models        | Neural networks, deep learning                                                  | Built on top of TensorFlow, allows for easy prototyping and experimentation    |
+| PyTorch          | Wide range of machine learning models and algorithms                         | Neural networks, deep learning, natural language processing, computer vision     | Dynamic computation graph, allows for easy modification of models during training |
